@@ -1,20 +1,23 @@
 # 📊 Data Science Portfolio – Eduardo Avendaño
 
-Welcome to my Data Science portfolio! I'm **Eduardo Avendaño**, an Applied Mathematics senior student with a strong focus on data analysis, statistics, and programming.
+Welcome to my Data Science portfolio! I'm **Eduardo Avendaño**, an Applied Mathematics graduate and aspiring data scientist with strong interests in statistical modeling, machine learning, and real-world applications of data analysis.
 
-This repository showcases a collection of projects that reflect my technical skills, analytical thinking, and passion for turning data into actionable insights.
+This repository showcases a selection of my academic and personal projects that demonstrate my technical abilities, creativity, and passion for data-driven problem solving.
 
 ---
 
-## 🧠 About Me
+## 👨‍🎓 About Me
 
-- 🎓 Final-year student in Applied Mathematics at Pontificia Universidad Javeriana Cali.
-- 📈 Passionate about statistics, time series analysis, and predictive modeling.
-- 🐍 Skilled in Python, R, SQL, Excel, Power BI, and LaTeX.
-- 🚀 Seeking opportunities as a Junior Data Analyst or Data Scientist.
+- 🎓 **M.Sc. in Data Science and Artificial Intelligence (2025–2026)** – Universidad Icesi *(in progress)*
+- 🎓 **B.Sc. in Applied Mathematics (2020–2024)** – Pontificia Universidad Javeriana, Cali  
+  - 🏅 **Graduated with honors**  
+  - 📝 Thesis: *Simplification and Analysis of the Dynamics of Happiness in a Complex System*
+- 🧪 **Researcher at Athabasca University (Canada)** – Mitacs Globalink Scholar
+- 🏭 **Data Analytics Intern at Harinera del Valle** – Focused on production planning and Power BI tools
 
 ---
 
 ## 📁 Repository Structure
+
 
 
