@@ -17,7 +17,7 @@ Customer churn, or attrition, is a critical metric for subscription-based busine
 ## Data Source
 
 * **Dataset:** Bank Customer Churn Prediction
-* **Source:** Originally from Kaggle. The specific version used in the notebook is often found at sources like: [https://www.kaggle.com/datasets/shubhammeshram579/bank-customer-churn-prediction](https://www.kaggle.com/datasets/shubhammeshram579/bank-customer-churn-prediction) (Please verify this is the exact source you used).
+* **Source:** Originally from Kaggle. The specific version used in the notebook is often found at sources like: https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset.
 * **Loading:** The accompanying notebook (`bank_churn_analysis.ipynb` - *adjust name if different*) uses manual file upload via the Google Colab interface. The expected filename is `Bank Customer Churn Prediction.csv`.
 
 ## Methodology / Approach
