@@ -17,7 +17,7 @@ Predicting house prices accurately is a common and valuable task in the real est
 ## Data Source
 
 * **Dataset:** Ames Housing dataset, prepared by Dean De Cock.
-* **Source:** Kaggle Competition - "House Prices: Advanced Regression Techniques". Link: [https://www.kaggle.com/c/house-prices-advanced-regression-techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
+* **Source:** Kaggle Competition - "House Prices: Advanced Regression Techniques". Link: https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
 * **Files Used:**
     * `train.csv`: Contains the training data, including features and the target `SalePrice`.
     * `data_description.txt`: **Crucial file** explaining each column name and its meaning/values (used extensively for preprocessing decisions).
