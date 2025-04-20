@@ -19,7 +19,7 @@ This project serves as a practical introduction to text classification and estab
 ## Data Source
 
 * **Dataset:** IMDB Dataset of 50K Movie Reviews
-* **Original Source (Example):** Kaggle - [https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews) (Verify this is the exact source you used).
+* **Original Source :** Kaggle - https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews.
 * **Loading Method:** The associated notebook (`nlp_sentiment_analysis.ipynb` - *adjust name if different*) uses manual file upload via the Google Colab interface. An input file named `IMDB Dataset.csv` is expected.
 
 ## Simplified Methodology
