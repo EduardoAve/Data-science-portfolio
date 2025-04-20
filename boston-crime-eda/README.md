@@ -17,7 +17,7 @@ This EDA aims to provide a comprehensive overview of the dataset's structure, id
 ## Data Source
 
 * **Dataset:** Boston Crime Dataset (containing incident reports)
-* **Source:** Kaggle - Analyze Boston (`AnalyzeBoston/crimes-in-boston`). Link: [https://www.kaggle.com/datasets/AnalyzeBoston/crimes-in-boston](https://www.kaggle.com/datasets/AnalyzeBoston/crimes-in-boston)
+* **Source:** Kaggle - https://www.kaggle.com/datasets/AnalyzeBoston/crimes-in-boston
 * **Files Used:**
     * `crime.csv`: Main file containing crime incident reports.
     * `offense_codes.csv`: File mapping offense codes to descriptive names.
